@@ -46,7 +46,7 @@ export class ProductService {
     {
       id: 3,
       title: 'Fourth Product',
-      price: 44.00,
+      price: 44.99,
       rating: 4.5,
       description:
         'This is a short description.Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
